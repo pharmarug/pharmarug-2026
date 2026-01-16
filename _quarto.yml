@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "First China Pharma R user group meeting"
+  description: "Our first meet-up"
+  site-url: https://github.com/pharmarug/pharmarug-2023
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: "house-fill"
+      - href: program.qmd
+        text: Program
+        icon: "folder"
+      - href: highlights.qmd
+        text: Event highlights
+        icon: "camera"
+  page-footer:
+    center:
+      - text: "NEST"
+        href: https://github.com/insightsengineering
+      - text: "Good software engineering practice for R packages"
+        href: https://openpharma.github.io/workshop-r-swe/
+
+format:
+  html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1200px
+      margin-width: 200px
+      gutter-width: 1.5rem
+    theme: cosmo
+    mainfont: system-ui
+    fontcolor: "#161b58"
+    css: styles.css
+    toc: false
+
+editor: source

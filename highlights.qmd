@@ -1,0 +1,11 @@
+---
+title: "Highlights"
+---
+
+The meeting topics covers three main areas:
+
+- Open-source & Collaboration — many open-sourced R packages were shared at the conference, including NEST packages, {tidytlg}, {mmrm}. Participants were very excited about open-sourcing and sharing.
+- Experience Embracing R in Pharma —  It was great to see use cases of {admiral} and {tidytlg}, and other effort to support daily work with R to replace SAS, including tlg generations and QC.
+- Practical Tips in R — It was great to learn how others encounter and overcome similar issues that we had in the past,  and how shiny authentication was implemented, similar TLG templates,  debugging tip.
+
+<img src="resources/webwxgetmsgimg.jpg" width="100%">
