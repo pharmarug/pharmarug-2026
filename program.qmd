@@ -1,0 +1,149 @@
+---
+title: "China Pharma RUG meeting program"
+---
+
+## Program
+
+| Time            | Topic                                                                                            | Presenter                                  | Location          |
+| --------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------ | ----------------- |
+| **8:30-9:00**   | **Registration**                                                                                 |                                            |
+| 9:00-9:10       | Welcome                                                                                          | Yan Qiao, BeiGene, Chengeng Tian, Novartis | Beijing, Shanghai |
+| 9:10-9:20       | Opening Remarks                                                                                  | Leo Li, BeiGene                            | Beijing           |
+| 9:20-9:50       | Most recent update on NEST project                                                               | Joe Zhu, Roche                             | Shanghai          |
+| 9:50-10:20      | Baseline shiny framework with TIDYTLG                                                            | David Fan, Janssen                         | Shanghai          |
+| **10:20-10:50** | **Break**                                                                                        |                                            |
+| 10:50-11:10     | Use R to replace SAS in ADaM programming                                                         | Chengcheng Ma, Legend;                     | Nanjing           |
+| 11:10-11:30     | Hands-on experience on ADaM validation using R                                                   | Haoyong Yu, Novartis                       | Shanghai          |
+| 11:30-12:00     | Using R in CDISC Standards Application                                                           | Victor Wu, Data Science                    | Beijing           |
+| **12:00-13:00** | **Lunch Break**                                                                                  |
+| 13:00-13:30     | Create your own RStudio project template                                                         | Jie Wang, Janssen                          | Shanghai          |
+| 13:30-14:00     | Shiny app deployment architecture for enterprise                                                 | Qinghua Liao, Fosun                        | Beijing           |
+| 14:00-14:30     | Practice in building efficient R Shinny application for clinical trial report                    | Qing Zou, Sanofi                           | Beijing           |
+| 14:30-15:00     | Practice in improving execution efficiency in R                                                  | Changming Yang, BeiGene                    | Beijing           |
+| **15:00-15:30** | **Break**                                                                                        |                                            |
+| 15:30-16:00     | Practice for comparing R data frame with SAS output                                              | Carlos Pang, Novartis                      | Shanghai          |
+| 16:00-16:30     | Debugging strategy for R                                                                         | Shuang Gao, BeiGene                        | Beijing           |
+| 16:30-16:55     | {mmrm}: a robust and comprehensive R package for implementing mixed models for repeated measures | Liming Li, Roche                           | Shanghai          |
+| 16:55-17:20     | A Shiny app for creating datasets to support popPK analysis                                      | Jingya Wang, Hengrui                       | Shanghai          |
+| 17:20-17:30     | Closing Remarks                                                                                  | Yanli Chang, Novartis                      | Shanghai          |
+
+
+### Most recent update on the NEST project
+Joe Zhu, Roche
+
+Joe Zhu is the lead software engineer of the NEST project at Roche. He has a PhD in statistics. Before joining Roche, Joe took two postdoc research positions at the University of Oxford, with a research focus on statistical genomics. He is an open source software advocator and developer; more details can be found at http://www.github.com/shajoezhu.
+
+*ABSTRACT* New data types require new tools and methodologies and there is a need in biometrics to respond quickly to understand the ever increasing growth of data generated from clinical trials. In recent years, analysis software tools have taken huge leaps forward. Therefore, we have seized the business opportunity to build an R-based toolkit that will allow us to meet these challenges.
+
+So far, we have open sourced several of our key packages on the Github. Many of our packages are well received by users. I would like to share some of our most recent updates including new open-source packages and tlg-catalog.
+
+
+### Baseline shiny framework with TIDYTLG
+David Fan, Janssen
+
+Yubo (David) Fan is an Associate Director Portfolio Lead at Janssen China R&D. David started his pharmaceutical industry career in 2007 as a Biostatistician in PAREXEL Johnson & Johnson group and joined Janssen China R&D in 2014 as Statistical Programming Manager. Since then, he has grown as a leader with increasing responsibilities and built China CVM statistical programming team starting from April 2017.
+
+Currently David is leading a local team with 11 members and responsible for managing CVM and NS portfolios. With high interest and great passion in R technology, David joined Janssen global R implementation initiative in 2019 and has been serving as the sub-team lead for baseline shiny group from 2021. Under his leadership, shiny sub-team generated the draft version of baseline shiny framework at the end of 2022 and is collaborating with study teams for piloting. David holds a PhD in Epidemiology and Health Statistics from Soochow University.
+
+*ABSTRACT* Open-source technologies have been rapidly growing in recent years, more and more pharmaceutical companies are starting to use R as an alternative to SAS or additional software for clinical trial reporting. To ease the transition for programmers from SAS to R, C&SP group in Janssen R&D developed the tidytlg package for R to create the tables, listings, and graphs (TLG) for clinical study reports. This package has been published to the pharmaverse repository on GitHub.
+
+Baseline Shiny framework is an R package that helps user to create interactive Shiny applications, simply by shuffling around clinical trial data and pre-developed Shiny modules in a yml configuration file. It covers most of the standard safety tables and figures as well as a couple of efficacy modules. In the backend, it depends on tidytlg package for standard tables to keep consistent with static RTF tables based on J&J standard. At the same time, the Shiny App provides more features for users to explore data and get more information from the interactive outputs.
+
+Our presentation will give a brief introduction on the main idea of tidytlg package and mainly focus on baseline Shiny framework with a detailed demo on Shiny App generated based on this framework.
+
+
+### Use R to replace SAS in ADaM programming
+Chengcheng Ma, Legend
+
+6 years of working experience as a clinical programmer, Using R over 3 years.
+
+*ABSTRACT* This presentation would introduce how to generate ADaM datasets based on tidyverse, admiral, admiralonco, and other pharmaverse packages. It will cover general ADaM mapping workflow, including batch reading sas datasets, generating key ADaM variables, reading ADaM variable labels and type from spec, generating xpt datasets, comparing with datasets generated from SAS, etc. The aim is to discuss the possible use of R to replace SAS in ADaM programming based on real Chinese studies.
+
+
+### Hands-on experience of ADaM validation using R
+Take ADLB as an example
+Haoyong Yu, Novartis
+
+Haoyong has over 5 years of experience using both SAS and R and has been working as a statistical programmer at Novartis since 2020.
+
+*ABSTRACT* This presentation provides hands-on experience of ADaM validation using R with ADLB as an example, covering the R programming workflow, step-by-step validation, creating custom functions, and comparing R and SAS. This practical example is designed for programmers with a basic understanding of R, but who may not have experience with clinical reporting packages, such as the pharmaverse project. By the end of this presentation, you will gain valuable experience and skills in ADaM validation using R.
+
+
+### Using R in CDISC Standards Application
+Victor Wu, Data Science
+
+Victor Wu, Ph.D., is Co-founder of Beijing Data Science Express Consulting Co., Ltd, Chair of China CDISC Coordinating Committee. Dr. Wu has over 15 years of work experience in data science, CDISC standards implementation (including CDASH, SDTM and ADaM) and data submission package preparation to multiple region's agencies.
+
+*ABSTRACT* To introduce R tools included in CDISC Open Source Alliance(COSA), such as Admir, tidyCDISC and Tplyr（to create ADaM datasets or TLFs with CDISC datasets).
+To discuss the future role of programmer of R and other programming language in clinical drug development process.
+
+
+### Create Your Own RStudio Project Template
+Jie Wang, Janssen
+
+Jerry Wang, Data Engineer within the Data Engineering & Analytics team of Clinical & Statistical Programming Department, at Janssen China R & D. He is a technologically savvy statistical programmer who is focusing on identifying opportunities, driving optimization and innovation, applying traditional and cutting-edge approaches on clinical related data analytics. Prior to this role, he has 10 years of experiences in drug development industry. He joined Janssen in 2017 and accumulated extensive statistical programming and analysis experiences spanning phase I to phase III trials. Before Janssen, he worked at Pfizer R&D as Technical Supervisor, Clinical Programming.
+
+*ABSTRACT* As more and more companies and organizations in pharmaceutical industry are adopting R to their statistical programming process, it is possible that more and more clinical studies and programmers will be utilizing RStudio Project workflow (as demonstrated in Chapter 8 of R4DS). Since every programmer on each team works in their own way, how can we make sure everyone on the team is using the same setting? To help ensure that teams share the same project standards, RStudio offers flexibility, where user can develop (in form of packages) many templates to be shared amongst users on the same team.
+This presentation will give a brief introduction to RStudio Project Template and how to create a simple project template from scratch. In addition, will also introduce and review a few different RStudio Project Templates shared by some of the most popular R packages and what we could learn from their design.
+
+
+### Shiny app deployment architecture for enterprise
+Qinghua Liao, Fosun
+
+Liao Qinghua has worked as a software engineer for more than 10 years. He joined the Biostatistics and Data Science Department of FosunPharma in early 2021, and  is committed to construct statistical computing environment (SCE), develop automation tools for clinical trial submission and Shiny Apps for data visualization. He is an R language enthusiast.
+
+*ABSTRACT* This topic discusses the deployment architecture of R shiny App in enterprise environment. Including using the {renv} package to keep the version of the R dependency package consistent, using Docker technology to keep R and the operating system consistent, and discussing how to use ShinyProxy to implement user authentication and authorization.
+
+### Practice in building efficient R Shinny application for clinical trial report
+Qing Zou, Sanofi
+
+Zou Qing, Statistical Programmer and R developer at Sanofi. In the last three years, he has supported a large application development and led multiple solid tumor studies in oncology at Sanofi. He was in charge of writing R training materials and provided R training to colleagues from global and transversal groups. He authored several internal R packages and API, focusing on document convention and biomarker analysis visualization.
+
+*ABSTRACT* When developing a comprehensive and advanced interactive-data-driven R shiny application based on pre-processed clinical trial data (SDTMs and ADaMs), as the application module increases and more and more different clinical project involved in, performance issues may arise, while also considering how the development team can collaborate more efficiently. This presentation will illustrate our thinking about the following obstacles:
+• What key roles do we need to make up of the project team?
+• How to manage the growing complexity of Shiny application code?
+• What is the proper way to handle the customize needs between different projects?
+• How to use Gitlab to build a pipeline for automating the code checking and unit test?
+What strategies can we use to address these challenges? There are a few good practices to keep a growing app with better performance by taking the advantage of JavaScript and Database.
+
+
+### Practice in improving execution efficiency in R
+Changming Yang, BeiGene
+
+Changming is working in BeiGene and have four years’ working experience on Clinical Programming and Data Analysis. He is interested in R and often use R in daily work.
+
+*ABSTRACT* Code performance always have an invisible effect in our work. It may bring time consumption in code maintenance, or affect user experience in a shiny app. This share will be based on the speaker’s experience in daily wok, talking about vectorize and loop in R, and its effect in data frame operations; using parallel and RCPP in R; dplyr interface to data.table; and string operation based on regular expression in data processing.
+
+
+### Practices for Comparing R Data Frame with SAS Output
+Carlos Pang, Novartis
+
+12 years working experience as a statistical programmer, Master of Mathematics
+
+*ABSTRACT* In this presentation, we will discuss best practices for reading SAS outputs *.sas7bdat, *.rtf into R and explore techniques for comparing data frames in R using the arsenal package. In addition, we will demonstrate how to summarize and pool the comparison results through S3 function and R Shiny. These techniques can improve programmers' daily work in a simple and user-friendly way and facilitate a smooth transition from SAS to R.
+
+
+
+### Debugging Strategy for R
+Shuang Gao, BeiGene
+
+Shuang Gao Principal Statistical Programmer, Scientific Programming APAC at BeiGene Co. She has 6 years of experience in statistical programming. Before joining BeiGene in 2022, she worked in Sanofi/Parexel and participate in various therapeutical areas with experience in studies from Phase I-III. Aside from projects, She is enthusiastic about R software and her expertise in R is data visualization.
+
+*ABSTRACT* Finding the root cause of a problem is always challenging. Most bugs are subtle and hard to find because if they were obvious, you would’ve avoided them in the first place. A good strategy helps. R comes with a simple set of debugging tools that RStudio amplifies. You can use these tools to better understand code that produces an error or returns an unexpected result.  This topic help beginner on their journey from getting to know the art and science of debugging, starting with a general strategy, then following up with specific tools. we focus specifically on the R debugging tools built into the RStudio IDE; for more general advice on debugging in R (such as philosophy and problem-solving strategies).
+
+
+### {mmrm}: a robust and comprehensive R package for implementing mixed models for repeated measures
+Liming Li, Roche
+
+Liming Li has been a senior data scientist in PD Data Sciences, Roche since 2019. He obtained master degree in biostatistics in Fudan university. He is now the technical engineering lead for chevron product of NEST, and also member of mmrm taskforce of American Statistical Association Biopharmaceutical Section Software Engineering Working Group. In his spare time, he enjoys playing with his cat.
+
+*ABSTRACT* Mixed models for repeated measures (MMRM) analyses have been extensively used in the pharmaceutical industry. Still, a comprehensive and efficient implementation in R has yet to be available, compared to the commercial software SAS. To bridge this gap and move our analysis in the pharmaceutical area to next-gen tools, we decided to develop a new package, `mmrm`, in an open-sourced manner under ASA BIOP SWE working group.
+In this session, we will compare the new `mmrm` package, with other current implementations. In addition, we would like to share the experience of this cross-industrial collaboration.
+
+
+### A Shiny App for Creating Datasets to Support popPK Analysis
+Jingya Wang, Hengrui
+
+Jingya Wang, graduated from New York University with a master’s degree in Biostatistics, and has 2 years of experience as a clinical programmer at Jiangsu Hengrui Pharmaceuticals Company Ltd. She is highly interested in using R language and SHINY in pharmaceutical clinical trials, and on the road of trying to develop SHINY applications to improve my work efficiency.
+
+*ABSTRACT* This popPK web application is created based on R shiny. Users can use the shiny app to create datasets from raw-EDC data to support popPK analysis without knowing any programming knowledge. It supports EDC data from BioKnown or Rave EDC systems and provides step-by-step selections to guide users to keep the needed information. A basic workflow of using this app to create a popPK supporting dataset from the start will be introduced, along with some open-ended functions that allow users to create self-defined variables and deal with special occasions.
