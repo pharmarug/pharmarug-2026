@@ -1,8 +1,20 @@
 ---
-title: "First China Pharma R user group meeting"
+title: "China Pharma R user group meeting 2026"
 ---
 
+THE 4th China Pharmaceutical Industry R User Group (RUG) Meeting will be held on March 27, 2026, both on-site and online. On-site meeting locations: Shanghai (J&J campus), Beijing (BeOne office). 
 
-<img src="resources/grouped.png" width="100%">
+第四届中国医药行业R用户大会将于2026年3月27日召开。线上线下同步进行。线下会议地点：上海（强生园区），北京（百济办公室）。
 
-Conference organising committee: Chengen Tian (Novartis), Yanli Chang (Novartis), Qiao Yan (Beigene) and Joe Zhu (Roche)
+| Key dates                 |                                    |
+| ------------------------- | ---------------------------------- |
+| 13-Dec-2025               | Call for Papers Opens              |
+| 28-Feb-2026               | Call for Papers Closes             |
+| 1 to 7-March-2026         | Acceptance Notices send to Authors |
+| 3-Feb-2026                | Conference Registration Opens      |
+| 14-Mar-2026               | Conference Registration Closes     |
+| 21-Mar-2026               | Final Papers/Slides Due            |
+| 27-Mar-2026               | China Pharma R User Group meeting  |
+
+
+Conference chair: Xiaochang Liu (J&J), Shuang Gao (BeOne)
