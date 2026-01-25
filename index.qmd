@@ -2,9 +2,11 @@
 title: "China Pharma R user group meeting 2026"
 ---
 
-THE 4th China Pharmaceutical Industry R User Group (RUG) Meeting will be held on March 27, 2026, both on-site and online. On-site meeting locations: Shanghai (J&J campus), Beijing (BeOne office). 
+![](resources/logo-1.png){width=250 fig-align="center"}
 
-第四届中国医药行业R用户大会将于2026年3月27日召开。线上线下同步进行。线下会议地点：上海（强生园区），北京（百济办公室）。
+The 4th China Pharmaceutical Industry R User Group (RUG) Meeting will be held on March 27, 2026, both on-site and online. On-site meeting locations: Shanghai (J&J office), Beijing (BeOne office). 
+
+第四届中国医药行业R用户大会将于2026年3月27日召开。线上线下同步进行。线下会议地点：上海（强生办公室），北京（百济办公室）。
 
 | Key dates                 |                                    |
 | ------------------------- | ---------------------------------- |
@@ -16,5 +18,16 @@ THE 4th China Pharmaceutical Industry R User Group (RUG) Meeting will be held on
 | 21-Mar-2026               | Final Papers/Slides Due            |
 | 27-Mar-2026               | China Pharma R User Group meeting  |
 
+## Call for Speakers
 
-Conference chair: Xiaochang Liu (J&J), Shuang Gao (BeOne)
+The call for speakers is currently open! If you are interested in presenting at this meeting, please contact the Co-chairs or scan the QR code below to submit your topic.
+
+如果您感兴趣在本次会议上做演讲，请联系Co-chair或扫描以下二维码提交演讲题目。
+
+![](resources/astract-submit-qrcode.jpg){.lightbox width=300 fig-align="center"}
+
+**Deadline for submitting topics / 截止日期:** February 28, 2026
+
+**Conference co-chairs:** 
+- Xiaochang Liu (J&J)
+- Shuang Gao (BeOne)
