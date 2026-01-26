@@ -20,14 +20,8 @@ website:
         icon: "camera"
   page-footer:
     center:
-      - text: "PharmaRUG 2023"
-        href: https://pharmarug.github.io/pharmarug-2023/
-      - text: "Open Source Clinical Reporting summeR"
-        href: https://insightsengineering.github.io/nest-2023-summeR/
-      - text: "PharmaRUG 2024"
-        href: https://pharmarug.github.io/pharmarug-2024/
-      - text: "PharmaRUG 2025"
-        href: https://pharmarug.github.io/pharmarug-2025/
+      - text: "Past Events"
+        href: https://pharmarug.github.io/index.html
 
 format:
   html:
