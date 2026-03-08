@@ -18,16 +18,6 @@ The 4th China Pharmaceutical Industry R User Group (RUG) Meeting will be held on
 | 21-Mar-2026               | Final Papers/Slides Due            |
 | 27-Mar-2026               | China Pharma R User Group meeting  |
 
-## Call for Speakers
-
-The call for speakers is currently open! If you are interested in presenting at this meeting, please contact the Co-chairs or scan the QR code below to submit your topic.
-
-如果您感兴趣在本次会议上做演讲，请联系Co-chair或扫描以下二维码提交演讲题目。
-
-![](resources/astract-submit-qrcode.jpg){.lightbox width=300 fig-align="center"}
-
-**Deadline for submitting topics / 截止日期:** February 28, 2026
-
 **Conference co-chairs:** 
 - Xiaochang Liu (J&J)
 - Shuang Gao (BeOne)
