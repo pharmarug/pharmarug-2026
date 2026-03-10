@@ -139,4 +139,6 @@ In clinical research, CDISC SDTM (Study Data Tabulation Model) serves as the cor
 ### AI-Powered Data Automation and Tool Development with Positron on the Posit Platform
 **Speaker:** 胡蕴青, 源资信息科技（上海）有限公司
 
-*(Abstract not provided)*
+This presentation centers on AI-driven data automation and custom tool development leveraging Positron—Posit’s next-generation AI-integrated development environment (IDE). It highlights streamlined workflows for direct ingestion of EDC metadata into the R environment to expedite data automation processes, alongside exploring end-to-end data flow orchestration for key clinical deliverables, including SDTM mapping, ADaM dataset generation, and TFLs production.
+
+We will further demonstrate how Positron harnesses real-time R session context and seamless large language model (LLM) integration to deliver targeted, context-aware AI support. The ellmer package serves as a critical bridge, offering a robust R interface to connect with diverse LLM providers such as ChatGPT and Gemini. By combining Positron’s advanced AI functionalities with the enterprise-grade governance frameworks of the Posit Platform, this solution adheres to stringent reproducibility and regulatory standards, encompassing GxP, 21 CFR Part 11, and CDISC compliance requirements.
