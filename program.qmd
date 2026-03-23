@@ -19,21 +19,21 @@ title: "China Pharma RUG meeting program"
 | 10:45 - 11:10 | NEST 2.0 — crane, Roche gtsummary and Our Experiment with AI | Joe Zhu | Roche | Shanghai |
 | 11:10 - 11:35 | From CDISC ARS to Production: An End-to-End Implementation of Metadata-Driven TLF Automation in Clinical Trials | Qing Zou | Sanofi | Online |
 | 11:35 - 12:00 | Making Clinical Reporting Easier: Enhancing gtsummary/analysis result dataset with reporter | Xiecheng Gu | Boehringer Ingelheim | Shanghai |
-| **12:00 - 13:15** | **Lunch** | | | |
-| **13:15 - 14:30** | **Session 3 · Reporting & AI Applications** | | | |
-| 13:15 - 13:40 | The reporter Package: A Powerful Reporting Package to Replicate SAS Output | Bill Huang | Parexel | Shanghai |
-| 13:40 - 14:05 | BIP Copilot: An LLM-Powered R Shiny Application for Interactive Biomarker Data Analysis via Natural Language | Kaiping Yang | BeOne Medicines | Shanghai |
-| 14:05 - 14:30 | AI-Driven Meta-Analysis: Transforming Literature Overload into Structured Evidence | Lingjie Shen | 南京白色巨塔临床研究 | Shanghai |
-| **14:30 - 15:45** | **Session 4 · General & AI in Clinical Research** | | | |
-| 14:30 - 14:55 | Data Science to Empower Clinical Trials | Haitao Xu | 泰格医药 (Tigermed) | Shanghai |
-| 14:55 - 15:20 | Becoming Antifragile with a Fast-Evolving R Ecosystem | Zhu Bochen | Johnson & Johnson | Shanghai |
-| 15:20 - 15:45 | Leveraging R and AI in Clinical Research: Maximizing Analytical Efficacy While Ensuring Data Safety | Haomin Yang & Qianwang Wang | BeOne Medicines | Shanghai |
-| **15:45 - 16:00** | **Tea Break** | | | |
-| **16:00 - 17:15** | **Session 5 · Automation, SDTM & Platform** | | | |
-| 16:00 - 16:25 | ADRGgenius: Revolutionizing Analysis Data Reviewer's Guide Creation via Automated Workflows | Weiwei Jiao | MSD | Beijing |
-| 16:25 - 16:50 | R-Powered Clinical Data Standardization: Sanofi's End-to-End SDTM Implementation & Customized Tool Ecosystem |Longfei Li | Sanofi | Beijing |
-| 16:50 - 17:15 | AI-Powered Data Automation and Tool Development with Positron on the Posit Platform | Yunqing Hu | Posit | Online |
-| **17:15 - 17:30** | **Closing** | Yanli Chang and Yan Qiao | | |
+| **12:00 - 13:00** | **Lunch** | | | |
+| **13:00 - 14:15** | **Session 3 · Reporting & AI Applications** | | | |
+| 13:00 - 13:25 | The reporter Package: A Powerful Reporting Package to Replicate SAS Output | Bill Huang | Parexel | Shanghai |
+| 13:25 - 13:50 | BIP Copilot: An LLM-Powered R Shiny Application for Interactive Biomarker Data Analysis via Natural Language | Kaiping Yang | BeOne Medicines | Shanghai |
+| 13:50 - 14:15 | AI-Driven Meta-Analysis: Transforming Literature Overload into Structured Evidence | Lingjie Shen | 南京白色巨塔临床研究 | Shanghai |
+| **14:15 - 15:30** | **Session 4 · General & AI in Clinical Research** | | | |
+| 14:15 - 14:40 | Data Science to Empower Clinical Trials | Haitao Xu | 泰格医药 (Tigermed) | Shanghai |
+| 14:40 - 15:05 | Becoming Antifragile with a Fast-Evolving R Ecosystem | Zhu Bochen | Johnson & Johnson | Shanghai |
+| 15:05 - 15:30 | Leveraging R and AI in Clinical Research: Maximizing Analytical Efficacy While Ensuring Data Safety | Haomin Yang & Qianwang Wang | BeOne Medicines | Shanghai |
+| **15:30 - 15:45** | **Tea Break** | | | |
+| **15:45 - 17:00** | **Session 5 · Automation, SDTM & Platform** | | | |
+| 15:45 - 16:10 | ADRGgenius: Revolutionizing Analysis Data Reviewer's Guide Creation via Automated Workflows | Weiwei Jiao | MSD | Beijing |
+| 16:10 - 16:35 | R-Powered Clinical Data Standardization: Sanofi's End-to-End SDTM Implementation & Customized Tool Ecosystem |Longfei Li | Sanofi | Beijing |
+| 16:35 - 17:00 | AI-Powered Data Automation and Tool Development with Positron on the Posit Platform | Yunqing Hu | Posit | Online |
+| **17:00 - 17:15** | **Closing** | Yanli Chang and Yan Qiao | | |
 
 ## Speakers & Abstracts
 
