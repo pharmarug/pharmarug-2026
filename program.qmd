@@ -31,7 +31,7 @@ title: "China Pharma RUG meeting program"
 | **15:30 - 15:45** | **Tea Break** | | | |
 | **15:45 - 17:00** | **Session 5 · Automation, SDTM & Platform** | | | |
 | 15:45 - 16:10 | [ADRGgenius: Revolutionizing Analysis Data Reviewer's Guide Creation via Automated Workflows](resources/slides/session_5_1.pdf) | Weiwei Jiao | MSD | Beijing |
-| 16:10 - 16:35 | [R-Powered Clinical Data Standardization: Sanofi's End-to-End SDTM Implementation & Customized Tool Ecosystem](resources/slides/session_5_2.pdf) |Longfei Li | Sanofi | Beijing |
+| 16:10 - 16:35 | [R-Powered Clinical Data Standardization: Sanofi's End-to-End SDTM Implementation & Customized Tool Ecosystem](resources/slides/session_5_2.pdf) | Longfei Li | Sanofi | Beijing |
 | 16:35 - 17:00 | [AI-Powered Data Automation and Tool Development with Positron on the Posit Platform](resources/slides/session_5_3.pdf) | Yunqing Hu | Posit | Online |
 | **17:00 - 17:15** | **Closing** | Yanli Chang and Yan Qiao | | |
 
