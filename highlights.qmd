@@ -2,22 +2,22 @@
 title: "Highlights"
 ---
 
-<img src="resources/pictures/pic (1).jpg" width="100%">
+<img src="resources/pictures/pic%20%281%29.jpg" alt="PharmaRUG 2026 highlight photo 1" width="100%">
 
-<img src="resources/pictures/pic (2).jpg" width="100%">
+<img src="resources/pictures/pic%20%282%29.jpg" alt="PharmaRUG 2026 highlight photo 2" width="100%">
 
-<img src="resources/pictures/pic (3).jpg" width="100%">
+<img src="resources/pictures/pic%20%283%29.jpg" alt="PharmaRUG 2026 highlight photo 3" width="100%">
 
-<img src="resources/pictures/pic (4).jpg" width="100%">
+<img src="resources/pictures/pic%20%284%29.jpg" alt="PharmaRUG 2026 highlight photo 4" width="100%">
 
-<img src="resources/pictures/pic (5).jpg" width="100%">
+<img src="resources/pictures/pic%20%285%29.jpg" alt="PharmaRUG 2026 highlight photo 5" width="100%">
 
-<img src="resources/pictures/pic (6).jpg" width="100%">
+<img src="resources/pictures/pic%20%286%29.jpg" alt="PharmaRUG 2026 highlight photo 6" width="100%">
 
-<img src="resources/pictures/pic (7).jpg" width="100%">
+<img src="resources/pictures/pic%20%287%29.jpg" alt="PharmaRUG 2026 highlight photo 7" width="100%">
 
-<img src="resources/pictures/pic (8).jpg" width="100%">
+<img src="resources/pictures/pic%20%288%29.jpg" alt="PharmaRUG 2026 highlight photo 8" width="100%">
 
-<img src="resources/pictures/pic (9).jpg" width="100%">
+<img src="resources/pictures/pic%20%289%29.jpg" alt="PharmaRUG 2026 highlight photo 9" width="100%">
 
-<img src="resources/pictures/pic (10).jpg" width="100%">
+<img src="resources/pictures/pic%20%2810%29.jpg" alt="PharmaRUG 2026 highlight photo 10" width="100%">
